@@ -1,4 +1,0 @@
-A am living in Adelaide.
-B am studying 42.
-C am doing get next line.
-D am doing exercising.
